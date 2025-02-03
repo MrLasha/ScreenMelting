@@ -1,2 +1,2 @@
-# My first "bad" code on C++.
+# My first "bad" code in C++.
 - ScreenMelting.cpp
